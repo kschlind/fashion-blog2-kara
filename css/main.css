@@ -1,0 +1,137 @@
+body {
+	font-family: "lato", sans-serif;
+	background-color: #fff;
+	padding: 40px;
+}
+
+* { 
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 300%;
+}
+
+h2 {
+	font-weight: normal;
+	color: #333;
+	font-size: 170%;
+	margin-top: 50 px;
+}
+
+header { 
+	margin-bottom: 40px;
+}
+
+header h1 {
+	display: inline;
+	margin-right: 40px;
+}
+
+header h2 {
+	display: inline;
+}
+
+nav ul {
+	margin: 20px 0 0 0;
+	padding: 0;
+	clear: both;
+}
+
+nav li {
+	width: 16.666%;
+	float: left;
+	text-align: center;
+}
+
+nav a {
+	color: #fff;
+	font-size: 140%;
+	text-decoration: none;
+	background-color: black;
+	padding: 20px;
+	display: block;
+	margin-right: 1px;
+}
+
+a {
+	color: #D00;
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+}
+
+p {
+	font-size: 110%;
+	line-height: 150%;
+}
+
+main {
+	width: 70%;
+	float: left;
+}
+
+aside {
+	width: 30%;
+	float: right;
+}
+
+article {
+	padding-top: 40px;
+	margin-right: 50px;
+	clear: both;
+}
+
+article h2 {
+	font-size: 210%;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+article h2 a {
+	color: black;
+}
+
+article h3 {
+	font-size: 210%;
+	color: #ccc;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+h4 {
+	text-align: right;
+	font-size: 110%;
+	padding-bottom: 4%;
+	border-bottom: 1px solid #ccc;
+}
+
+span {
+	font-size: 600%;
+	color: #ddd;
+	margin: 3% 1% 5% 0%;
+	float: left;
+	font-weight: normal;
+}
+
+section {
+	padding-top: 40px;
+	margin-bottom: 0;
+	font-size: 110%;
+}
+
+h5 { 
+	font-size: 110%;
+	padding-top: 0px;
+}
+
+footer {
+	font-size: 110%;
+	clear: both;
+}
